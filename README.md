@@ -1,4 +1,11 @@
-# Trailblazer 🔥
+# Trailblazer
+
+> [!WARNING]
+> This is the most shitty implementation this world has ever seen, and you should not use it.
+> I made it to learn how to learn Maven & Java libraries. This is in no way related to the
+> [C++ Trailblazer project](https://github.com/AlphaGameDeveloper/Trailblazer) I am currently
+> working on. This repository is no longer maintained, and to be honest if you use it I would be
+> both honored and questionning if you care about stability or maintainability in the slightest.
 
 A powerful, flexible, and easy-to-use Java logging library that "just works" out of the box!
 
